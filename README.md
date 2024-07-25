@@ -1,6 +1,6 @@
 - 👋 Hi! I’m Bharnij
 - 🌱 I’m currently learning Python as well as introductory Cybersecurity fundamentals and Linux fundamentals
-- 📫 Reach me via : www.instagram.com/bharnijborah or x.com/bharnij
+- 📫 Reach me via : www.instagram.com/bharnijborah or https://x.com/bharnij
 
 
 <!---
